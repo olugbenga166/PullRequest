@@ -1,0 +1,18 @@
+DVCS - Git
+Git Hosting Repositories | github, bitbucket, gitlab
+                                                 Languages | yaml, bash, java, Groovy,Hashicorp
+CM | Ansible
+Servers | Apache, Nginx, haProxy LB, Jboss & Tomcat
+Build CI/CD Tools | Maven, Jenkins
+Database | DynamoDB, Mongodb, MySql
+Bug Tracking Tool | Jira, salesforce
+Monitoring | Prometheus, Grafana, New Relic 
+Containerization Tool | Docker
+Code Quality | SonarQube
+Containerization Management | Kubernetes
+Operating System | Linux, Window
+IaaC | Terraform
+Artifactory | Nexus & Docker hub
+AWS Cloud | EC2, VPC, S3, EFS, EBS,
+Log Management | EFk/ELK
+Auto Scaling | IAM | Route53
